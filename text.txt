@@ -1,1 +1,0 @@
-text.txt file have created on server.
